@@ -6,8 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Aadesh-Phadake&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/Aadesh-Phadake?style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/Aadesh-Phadake?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/followers/Aadesh-Phadake?label=Followers&style=for-the-badge&logo=github&color=blue" />
+
+  <img src="https://img.shields.io/github/stars/Aadesh-Phadake?style=for-the-badge&color=yellow" />
 
 </div>
 
